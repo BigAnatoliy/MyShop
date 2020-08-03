@@ -1,2 +1,4 @@
 .idea
 MyShop.iml
+.DS_Store
+static/.DS_Store
