@@ -169,9 +169,9 @@
 		margin-right: 10px;
 	}
 
-	#shoppingCart table img {
-		max-height: 80px;
-		margin:0 auto;
+	.uii {
+		max-width: 38%;
+		height: auto;
 		display: block;
 	}
 }
