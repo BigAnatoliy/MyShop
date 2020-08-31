@@ -136,10 +136,9 @@
 
 	.blog-footer {
 		padding: 2.5rem 0;
-		color: #999;
 		text-align: center;
-		background-color: #f9f9f9;
-		border-top: .05rem solid #e5e5e5;
+		background-color: #eee4e4;
+		border-top: .05rem solid #9c9191;
 	}
 
 	.badge {
@@ -153,6 +152,27 @@
 	}
 	.my-bottom {
 		margin:0 auto;
+	}
+	.navbar{
+		background: #eee4e4;
+	}
+
+	.shopping-cart-desc {
+		padding: 15px;
+	}
+
+	.shopping-cart-desc .btn{
+		margin-top: 10px;
+	}
+
+	.navbar-btn.navbar-right.sign-in {
+		margin-right: 10px;
+	}
+
+	#shoppingCart table img {
+		max-height: 80px;
+		margin:0 auto;
+		display: block;
 	}
 }
 
